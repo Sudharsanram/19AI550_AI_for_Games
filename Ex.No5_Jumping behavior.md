@@ -96,6 +96,7 @@ pygame.quit()
 
 ### Output:
 
+![Screenshot (41)](https://github.com/user-attachments/assets/5bd789c7-5d2c-41c8-b0d9-530f79b4f010)
 
 
 ### Result:
