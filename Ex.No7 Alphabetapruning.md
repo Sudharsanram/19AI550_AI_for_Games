@@ -55,7 +55,7 @@ def alpha_beta_pruning(depth, node_index, maximizing_player, values, alpha, beta
 # Driver code
 if __name__ == "__main__":
     # This is the terminal/leaf node values of the game tree
-    values = [3, 5, 6, 9, 1, 2, 0, -1]
+    values = [3, 2, 6, 9, -1, 2, 5, -1]
 
     print("Optimal value:", alpha_beta_pruning(0, 0, True, values, -INF, INF))
 ````
